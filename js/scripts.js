@@ -213,7 +213,7 @@
             markers:[
             {
             address: "5000 Forbes Ave, Pittsburgh, PA 15289",  /* You can change your address from here */
-            html: "<b>Address</b>: <br> 000 Forbes Ave SMC 2751, Pittsburgh, PA 15289 USA",   /* You can change display address text from here */
+            html: "<b>Address</b>: <br> 5032 Forbes Ave SMC 2751, Pittsburgh, PA 15289 USA",   /* You can change display address text from here */
             popup: true
             }
             ]
